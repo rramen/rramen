@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rramen
 - 👀 I’m interested in Data Science, Mobile Developement, Machine Learning
 - 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: ramonreyeslazo@gmail.com
 
 <!---
